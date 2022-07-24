@@ -1,0 +1,1 @@
+PROCEDURE PrintatPARAM locate:INTEGERDIM cl:REALcl=FLOAT(locate)DIM col,row:INTEGERrow=INT(cl/32)col=INT(MOD(cl,32))PRINT CHR$(2); CHR$(col+32); CHR$(row+32); END 

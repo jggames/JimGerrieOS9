@@ -1,0 +1,1 @@
+PROCEDURE WaitPARAM delay:INTEGERTYPE registers=rcc,ra,rb,rdp:BYTE;rx,ry,ru:INTEGERDIM regs:registersregs.rx=delayRUN byscall($A,regs)END

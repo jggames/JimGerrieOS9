@@ -1,0 +1,1 @@
+PROCEDURE curoffPRINT CHR$(5); CHR$(32); END 

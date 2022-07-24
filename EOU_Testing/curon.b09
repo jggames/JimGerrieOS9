@@ -1,0 +1,1 @@
+PROCEDURE curonPRINT CHR$(5); CHR$(33); END 
